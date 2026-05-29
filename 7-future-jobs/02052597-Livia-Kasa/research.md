@@ -1,8 +1,8 @@
-\# Future of Software Engineering Jobs
+# Future of Software Engineering Jobs
 
 
 
-\## Introduction
+## Introduction
 
 
 
@@ -14,5 +14,11 @@ AI-assisted tools are being used by various companies to help cut down on develo
 
 
 
-During this assignment I will investigate the impact of AI on software engineering jobs, focusing on junior developers, expectations from seniors and the significance of human skills which are hard to automate. 
+During this assignment I will investigate the impact of AI on software engineering jobs, focusing on junior developers, expectations from seniors and the significance of human skills which are hard to automate.
+
+
+
+
+
+
 
