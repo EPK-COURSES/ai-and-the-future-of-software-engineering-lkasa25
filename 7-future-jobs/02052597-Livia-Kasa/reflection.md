@@ -10,5 +10,5 @@ As a Software Engineering student, it is easy to look at the advancements of Art
 
 
 
-My perspective started changing as soon as I dived in with the research. I soon learned that the industry is not truly having a "replacing of programmers" with AI-tools, but rather a structural transformation. This shift seems to appear since the early stages of developing and also including a change of responsibilities in seniors as well.
+My perspective started changing as soon as I dived in with the research. I soon learned that the industry is not truly having a "replacing of programmers" with AI-tools, but rather a structural transformation. This shift seems to appear since the early stages of developing and also including a change of responsibilities in senior engineers as well.
 
