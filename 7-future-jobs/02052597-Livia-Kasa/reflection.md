@@ -1,8 +1,8 @@
-\# Personal Reflection: Topic 7
+# Personal Reflection: Topic 7
 
 
 
-\## Initial Thoughts on AI's Impact 
+## Initial Thoughts on AI's Impact 
 
 
 
